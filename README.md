@@ -1,6 +1,12 @@
 # djangoslackbridge
 Django based app for linking two Slack channels together
 
+Inspired by https://github.com/ossobv/slackbridge
+
+Why Django:
+Admin panel to add users, dynamically add bridges
+
+
 1. clone the repo
 2. create virtualenv 
 3. activate virtualenv
