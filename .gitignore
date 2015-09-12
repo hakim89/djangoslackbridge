@@ -1,0 +1,6 @@
+
+*.pyc
+
+bridge/migrations/0001_initial.py
+
+bridge/migrations/0002_bridge_name.py
